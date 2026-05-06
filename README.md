@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently, I  am working as Manual and Automation test Engineer<br>in 7-Eleven GSC.<br>I have almost 7+ Years of Experience in the Testing Fields.<br>Programming Language :- |Java| JavaScript| TypeScript|<br>Web Automation Testing:-|Selenium WebDriver| Playwright|TestNG|Cucumber|Mocha | Chai |<br>Api Testing Tool :- |Rest-Assured|Postman|Karate|<br>Databases Tool:-  |MySql |MongoDB|Snowflake|<br>Defect Management Tool:- |JIRA|<br>Build Management Tool : -|Maven|<br>Cloud :-  |AWS->S3|CLoudWatch|Elastic Beanstalk| EC2|EMR|<br>Scheduling Tool :- |Airflow|<br>Logging Utility :- |log4J|<br>Mainframe Tech:-|IBM Iseries 400|<br><br>
+Currently, I  am working as a Manual and Automation test Engineer in 7-Eleven GSC.<br>I have almost 7+ Years of Experience in the Testing Fields.<br>Programming Language :- |Java| JavaScript| TypeScript|<br>Web Automation Testing:-|Selenium WebDriver| Playwright|TestNG|Cucumber|Mocha | Chai |<br>Api Testing Tool :- |Rest-Assured|Postman|Karate|<br>Databases Tool:-  |MySql |MongoDB|Snowflake|<br>Defect Management Tool:- |JIRA|<br>Build Management Tool : -|Maven|<br>Cloud :-  |AWS->S3|CLoudWatch|Elastic Beanstalk| EC2|EMR|<br>Scheduling Tool :- |Airflow|<br>Logging Utility :- |log4J|<br>Mainframe Tech:-|IBM Iseries 400|<br><br>
 
 
 ## 🌐 Socials:
